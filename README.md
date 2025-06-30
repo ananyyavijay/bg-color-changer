@@ -44,14 +44,15 @@ npm run build
 
 ---
 
-📄 Default Template Reference
-This project was bootstrapped using the official React + Vite template.
-It includes HMR, basic ESLint rules, and support for fast refresh.
+## 📄 Default Template Reference
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was bootstrapped using the official **React + Vite** template.  
+It includes HMR (Hot Module Replacement), basic ESLint rules, and support for fast refresh.
 
-Available official plugins:
+This template provides a minimal setup to get React working in Vite with modern tooling and fast development experience.
 
-@vitejs/plugin-react uses Babel
+### Official Plugins Available
 
-@vitejs/plugin-react-swc uses SWC
+- [`@vitejs/plugin-react`](https://github.com/vitejs/vite-plugin-react) – uses **Babel** for Fast Refresh  
+- [`@vitejs/plugin-react-swc`](https://github.com/vitejs/vite-plugin-react-swc) – uses **SWC** for Fast Refresh
+
